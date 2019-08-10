@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutorials</string>
+    <string name="terms_conditions_prompt">Cliquez <annotation action="acceptTC">ici</annotation> pour accepter les
+        <annotation action="openTC">termes et conditions</annotation>
+    </string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Tutorials</string>
+    <string name="terms_conditions_prompt">Click <annotation action="acceptTC">here</annotation> to accept the <annotation action="openTC">terms and conditions</annotation></string>
+</resources>
